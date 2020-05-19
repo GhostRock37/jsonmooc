@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "title": "Cinq conseils pour bien choisir son MOOC",
+      "body": "Voici cinq conseils pour bien choisir un mooc qui répondra à son besoin ! Les Mooc (Massive Open Online Courses) sont des cours en ligne gratuits, collaboratifs et ouverts à tous proposés par des universités, des écoles ou des plateformes de formation. Ils couvrent un large éventail de domaines allant des sciences aux arts en passant par les langues, l'informatique .... "
+    },
+    {
+      "title": "1 - Comparer les cours en ligne à disposition",
+      "body": "« Certains site comme, Class Central ou my-mooc.fr, répertorie tous les MOOC disponibles à l’échelle mondiale. Il suffit de taper un mot dans le moteur de recherche et tous les cours s’affichent. »"
+    },
+    {
+      "title": "2 - Vérifier le déroulement et rencontrer l’intervenant… ",
+      "body": "Bien vérifier les compétences de ou des intervants qui interviennent dans la formation"
+    },
+     {
+      "title": "3 - Vérifier que le MOOC a fait ses preuves",
+      "body": " Sur les plateformes de forums ou autres, essayer de voir les avis sur le contenu des formations et ne pas hésitez à challenger les intervenants"
+    },
+     {
+      "title": "4 - Savoir comment s’en servir sur son CV",
+      "body": " Tout dépend de ses attentes, mais il est toujours intéressant de choisir un MOOC certifiant qui permettra de valoriser sur LinkedIn ou sur son CV le parcours que l'on a pu faire "
+    }, 
+     {
+      "title": "5 - Comment se déroulent les cours dans un Mooc ? ",
+      "body": " Les enseignements se composent essentiellement de vidéos courtes à visionner. Elles peuvent être agrémentées de questionnaires en ligne associés. Les discussions sont encouragées entre participants sur les réseaux sociaux et/ou sur un forum dédié. Enfin, l’équipe pédagogique peut aussi programmer des visioconférences. Le Mooc s’accompagne d’un espace où sont stockées des ressources complémentaires."
+    } 
+  ]
+}
